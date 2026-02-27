@@ -55,11 +55,11 @@ Estou constantemente aprimorando meus conhecimentos e construindo projetos que r
 />
 <img 
     align="left" 
-    alt="Next.js" 
+    alt="csharp" 
     title="Next.js"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" 
+    src="https://devicon-website.vercel.app/api/csharp/original.svg" 
 />
 <img 
     align="left" 
