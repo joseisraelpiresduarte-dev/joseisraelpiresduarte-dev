@@ -17,7 +17,8 @@ Estou constantemente aprimorando meus conhecimentos e construindo projetos que r
     align="left" 
     alt="HTML"
     title="HTML" 
-    width="30px" 
+    width="30px"
+    margin="10px 5px 10px"
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
 />
@@ -56,7 +57,7 @@ Estou constantemente aprimorando meus conhecimentos e construindo projetos que r
 <img 
     align="left" 
     alt="csharp" 
-    title="Next.js"
+    title="csharp"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://devicon-website.vercel.app/api/csharp/original.svg" 
