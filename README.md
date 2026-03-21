@@ -17,7 +17,8 @@ Atualmente estou aprofundando meus conhecimentos em:
 
 
 - 🌐 HTML, CSS e JavaScript
-- ⚛️ React.js
+- ⚛️ React
+- 🖥️ Node.js
 - 📊 Estrutura De Dados
 - 🐘 PostgreSQL
 - 🧱 POO C#
