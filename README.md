@@ -1,92 +1,100 @@
-# 🧑‍💻 IsraelDuarte
+<h1 align="center">ISRAL DUARTE </h1>
 
-**`Desenvolvedora FullStack`**
-
-Me chamo José Israel, tenho 22 anos e sou natural de Juazeiro do Norte. Atualmente, estou cursando Técnico em Desenvolvimento de Sistemas pelo SENAI, onde venho desenvolvendo habilidades práticas em programação, lógica, desenvolvimento de software e projetos voltados para o mercado.
-
-Sou apaixonado por tecnologia e estou focado em construir uma carreira sólida na área de desenvolvimento. Tenho me dedicado intensamente aos estudos, buscando evoluir tanto na parte técnica quanto na prática, com o objetivo de ingressar o mais rápido possível no mercado de trabalho como desenvolvedor.
-
-Estou constantemente aprimorando meus conhecimentos e construindo projetos que reforcem minha base em programação e boas práticas de desenvolvimento.
-
+<p align="center">
+💻 Desenvolvedor Front-End React Focado em 
+</p>
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 👨‍💻 Sobre mim
+
+🎓 Estudante de Desenvolvimento de Sistemas - Senai 
+📍 Juazeiro do Norte - CE
+
+ com foco na construção de aplicações front-end e integração com banco de dados.
+
+Atualmente estou aprofundando meus conhecimentos em:
+
+
+- 🌐 HTML, CSS e JavaScript
+- ⚛️ React.js
+- 📊 Estrutura De Dados
+- 🐘 PostgreSQL
+- 🧱 POO C#
+- 💻 C#
+
+Busco evoluir constantemente minhas habilidades em desenvolvimento front-end, criando interfaces modernas, responsivas e intuitivas, aplicando boas práticas de usabilidade, performance e acessibilidade na construção de aplicações web.
+
+---
+
+### 🖥️ Front-End
 
 <img 
     align="left" 
     alt="HTML"
-    title="HTML" 
-    width="30px"
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+    width="40px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+    alt="CSS"
+    width="40px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+    alt="JavaScript"
+    width="40px" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
 />
+
 <img 
     align="left" 
-    alt="TypeScript"
-    title="TypeScript" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" 
+    alt="React.js"
+    width="40px" 
+    src="https://img.icons8.com/?size=100&id=wPohyHO_qO1a&format=png&color=000000" 
 />
+
+
+
+<br/>
+<br/>
+
+---
+
+### ⚙️ Back-End
+
 <img 
     align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
+    alt="C#"
+    width="40px" 
+    src="https://img.icons8.com/?size=100&id=Fycm8TUhWmFU&format=png&color=000000" 
 />
+
 <img 
     align="left" 
-    alt="csharp" 
-    title="csharp"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://devicon-website.vercel.app/api/csharp/original.svg" 
-/>
-<img 
-    align="left" 
-    alt="PHP" 
-    title="PHP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Laravel" 
-    title="Laravel"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+    alt="C#"
+    width="40px" 
+    src="https://img.icons8.com/?size=100&id=54087&format=png&color=000000" 
 />
 
 <br/>
 <br/>
 
+---
 
+### 🗄️ Banco de Dados
+
+<img 
+    align="left" 
+    alt="MySQL"
+    width="40px" 
+    src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000" 
+/>
+
+<br/>
+<br/>
+
+---
