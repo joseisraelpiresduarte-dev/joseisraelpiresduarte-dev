@@ -1,4 +1,4 @@
-<h1 align="center">ISRAL DUARTE </h1>
+<h1 align="center">ISRAEL DUARTE </h1>
 
 <p align="center">
 💻 Desenvolvedor Front-End React Focado em 
