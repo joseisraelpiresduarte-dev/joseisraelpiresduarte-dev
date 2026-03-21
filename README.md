@@ -8,7 +8,7 @@
 
 ### 👨‍💻 Sobre mim
 
-🎓 Estudante de Desenvolvimento de Sistemas - Senai 
+🎓 Estudante de Desenvolvimento de Sistemas - Senai <br>
 📍 Juazeiro do Norte - CE
 
  com foco na construção de aplicações front-end e integração com banco de dados.
