@@ -1,7 +1,7 @@
 <h1 align="center">ISRAEL DUARTE </h1>
 
 <p align="center">
-💻 Desenvolvedor Front-End React Focado em 
+💻 Desenvolvedor Front-End com foco em React e integração com APIs. 
 </p>
 
 ---
