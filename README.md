@@ -11,7 +11,7 @@
 🎓 Estudante de Desenvolvimento de Sistemas - Senai <br>
 📍 Juazeiro do Norte - CE
 
- com foco na construção de aplicações front-end e integração com banco de dados.
+ Com foco na construção de interfaces de usuário interativas, responsivas e acessíveis, integrando-se eficientemente com APIs e serviços back-end.
 
 Atualmente estou aprofundando meus conhecimentos em:
 
